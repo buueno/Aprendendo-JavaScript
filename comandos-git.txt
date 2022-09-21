@@ -1,0 +1,32 @@
+Git clone git@github.com:leocomelli/curso-git.git - Clonar um repositório remoto já existente
+git clone <repositorio> <meu-projeto-clone> -  clonar o repositório para uma pasta específica
+git clone -branch new_feature <repositorio> - clonar o repositório a partir de uma branch específica
+
+
+
+Git push - Enviar arquivos/diretórios para o repositório remoto
+Git push -u origin master - O primeiro push de um repositório deve conter o nome do repositório remoto e o branch.
+
+
+
+Git pull - Atualizar repositório local de acordo com o repositório remoto
+
+
+
+Git status - Verificar estado dos arquivos/diretórios
+
+
+
+Git restore --source a0c893b - Restaurar ao hash do Commit desejado
+
+
+
+Git Commit - Comitar
+Git Commit meuarquivo.txt -m "minha mensagem de commit" - Comitar informando mensagem
+
+
+
+Git log - Exibir histórico
+
+
+
