@@ -29,4 +29,10 @@ Git Commit meuarquivo.txt -m "minha mensagem de commit" - Comitar informando men
 Git log - Exibir histórico
 
 
+Git checkout -b exemplo - cria uma branch 
+
+
+Git Switch - muda entre as branchs 
+
+
 
